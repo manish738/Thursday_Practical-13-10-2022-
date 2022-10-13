@@ -1,3 +1,5 @@
+    /* Q3 First repeated & non-repeated character in string */
+
 import java.util.HashMap;
 import java.util.Scanner;
 
